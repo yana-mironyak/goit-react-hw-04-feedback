@@ -1,0 +1,14 @@
+.feedbackButtons {
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    border-color: rgb(233, 227, 227);
+    text-transform: capitalize;
+    transition: background-color 100ms;
+}
+
+.feedbackButtons:active {
+    background-color: rgb(153, 153, 211);
+    transition: background-color 0ms;
+}
+
